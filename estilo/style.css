@@ -59,7 +59,7 @@ svg{
         margin-left: 10px;
         border: 1px solid white;
         padding: 5px;
-        width: 10%;
+        width: 15%;
         font-size: 15px;
         margin-top: 10px;
         
@@ -70,14 +70,14 @@ svg{
         margin-left: 150px;
         border: 1px solid white;
         padding: 5px;
-        width: 11%;
+        width: 15%;
         font-size: 15px;
         margin-top: 10px;
         
     }
     svg{
         position: absolute;
-        margin-left: 260px;
+        margin-left: 150px;
         width: 8%;
         margin-top: -95px;
        
