@@ -24,4 +24,5 @@ document.addEventListener("DOMContentLoaded",()=>{
             block:"start"
         })
     })
+    AOS.init()
 })
